@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">NewTrolleyManager</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Trolley Manager</string>
+    <string name="nav_header_subtitle">ayushee.jain@viit.ac.in</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Basket</string>
+    <string name="menu_slideshow">Trolley 1</string>
+    <string name="menu_tools">Trolley 2</string>
+    <string name="menu_share">Share</string>
+
+
+    <string-array name="Main">
+        <item> Item </item>
+
+
+    </string-array>
+
+    <string-array name="Description">
+        <item>  </item>
+        <item>  </item>
+        <item>  </item>
+    </string-array>
+</resources>
